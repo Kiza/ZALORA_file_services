@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  root to: 'check#live'
+
+  get 'check/live'
+  
   post 'files', to: 'data_file#create'
 
   get 'files/:filename', to: 'data_file#show', constraints: { filename: /.+/ }
