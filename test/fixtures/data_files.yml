@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# one:
+#   filename: MyString
+#   size: 1
+#   hash: MyString
+#   hash_funcation: MyString
+
+# two:
+#   filename: MyString
+#   size: 1
+#   hash: MyString
+#   hash_funcation: MyString
